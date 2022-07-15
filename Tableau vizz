@@ -8,4 +8,17 @@ It starts with some key metrics showing the number of rides in the year 2021, ho
 We observe that members vs no-members is pretty similar total rides (a 55 vs a 45%). 
 
 When we look at the duration of the ride, we can see a bigger difference. The casual riders used the bikes for longer time (more than double) than the member rider.
-If we look at the average duration by day during the year, we observe that evidendtly we the 
+If we look at the average duration by day during the year, we observe that evidendtly we see that difference but we also see the same pattern, where the rides are a bit longer during the weekends.
+
+When looking at the monthly rides of the year, we observe a clear trend where the amount of rides increase from June to october with the best weather and the lowest rides are during January and February when is colder. This is the same for both type of riders, casual and members. In both cases the summer months make more that 50% of yearly rides. In the case of members summers months are a 62% of yearly rides compare to a 73% of the casual rides.
+It would be important to try capture part of those riders 
+
+The total rides per day during the year show a regular pattern for member riders with Sunday as the day with least rides and Wednesday with the most rides. However, there are not big difference between them. It's only a 3% difference of the total amount of rides. 
+For the casual riders, there is a different pattern. Very stable number of rides from Monday to Thursday, increasing rides on Friday and being Saturaday and Sunday the days with most rides. The weekend is actually the only days where the casual riders ride more that the member riders. 
+
+Rides by hour during working days. There's a clear peak during the working days for both type of riders. From 16pm to 18pm is when more riders use the service, being 17pm the hour with highest demand with more than a 10% of the daily rides. 
+However, for member riders there is a higher use of bikes from 7-9 am. This should be associated to the work starting time. This higher use of bikes isn't that clear on the casual riders that thir trend is a clearer build up from the morning hours to 17pm to fall back again to the night hours. 
+
+Riders by hour during the weekends. We see the distribution of bike used during the day is almost the same for both casual and members. There's a main core group of hours from 10am to 19pm. These hours for the members supone a 66% of the rides of the day and another 66% for the casual riders.
+
+The station
