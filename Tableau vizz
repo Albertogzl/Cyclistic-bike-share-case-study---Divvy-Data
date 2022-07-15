@@ -5,7 +5,7 @@ https://public.tableau.com/views/cyclistic_16565113942750/Dashboard?:language=en
 This dashboard shows the comparisson of how member riders compare against casual riders during the year 2021.
 
 It starts with some key metrics showing the number of rides in the year 2021, how many of them were performed by members and how many by casual riders. 
-We observe that members vs no-members is pretty similar total rides (a 55 vs a 45%). 
+We observe that members vs no-members is pretty similar total rides (a 55% vs a 45%). 
 
 When we look at the duration of the ride, we can see a bigger difference. The casual riders used the bikes for longer time (more than double) than the member rider.
 If we look at the average duration by day during the year, we observe that evidendtly we see that difference but we also see the same pattern, where the rides are a bit longer during the weekends.
